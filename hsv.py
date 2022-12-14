@@ -48,7 +48,7 @@ if __name__ == '__main__':
                 sub_i = 0
                 index = 0
                 while index < len(rgb_str):
-                    rgb = rgb_str[index:index + 5]
+                    rgb = rgb_str[index:index + 6]
                     index += 6
                     print_hsv(rgb)
                 continue
