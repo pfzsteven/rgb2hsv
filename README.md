@@ -22,7 +22,7 @@ hex:h,s,v
 f2d4b1:32.31,0.27,0.95
 ```
 
-### Example3: 多个rgb hex字符串以空格隔开
+### Example2: 多个rgb hex字符串以空格隔开
 
 - 命令行输入:
 
